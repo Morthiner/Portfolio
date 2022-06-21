@@ -83,6 +83,7 @@ h2 {
   display: flex;
   padding: 0 15vw 10vh 15vw;
   justify-content: space-between;
+  gap: inherit;
   background-color: #7858A6
 }
 
